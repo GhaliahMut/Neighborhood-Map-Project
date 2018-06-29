@@ -29,7 +29,6 @@ It is a single page application uses Google Maps API and ReactJS technologies to
 5. Navigate to the build directory and start a localhost with python using ```python -m http.server 8000```.
 
 * Navigate to http://localhost:8000/ in your browser.
-* NOTE: The service worker for this app will only work when the app is in production mode.
 
 ## Resources
 
