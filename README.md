@@ -1,4 +1,4 @@
-﻿# Neighborhood Map Project 
+# Neighborhood Map Project 
 
 This project was built for the Udactity Front-End Nanodegree Program.
 
@@ -9,7 +9,8 @@ This project was built for the Udactity Front-End Nanodegree Program.
 * [Resources](#resources)
 
 ## About Neighborhood Map Project 
-It is a single page application uses Google Maps API and ReactJS technologies to feature a map of my best places to visit in Stockholm, Sweden. 
+It is a single page application uses Google Maps API, Wikipedia API and ReactJS technologies to feature a map of my best places to visit in Stockholm, Sweden. Also, it uses the offline first strategy by adding a service worker that enable the app to function with or without an internet connection.
+* NOTE: The service worker for this app will only work when the app is in production mode.[Check here for more details] (#how-to-install-and-run-the-project-in-production-mode)
 
 ## How to Install and Run the Project 
 1. Make sure that you have ```Node.js``` installed on your device.
@@ -19,7 +20,6 @@ It is a single page application uses Google Maps API and ReactJS technologies to
 5. Run ```npm start``` to start and view the project.
 
 * The browser should automatically open the app. If it doesn't, navigate to http://localhost:3000/
-* NOTE: Service worker for this app will only work when the app is in production mode.
 
 ## How to Install and Run the Project in Production Mode
 1. Make sure that you have ```Node.js``` installed on your device.
