@@ -9,7 +9,7 @@
     "react": "^15.6.1",
     "react-async-script-loader": "^0.3.0",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.13",
+    "react-scripts": "5.0.1",
     "sort-by": "^1.2.0"
   },
   "scripts": {
